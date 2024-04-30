@@ -1,0 +1,50 @@
+
+a {
+    font-family: "sauna-new", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+ 
+}
+
+body {
+    background-color: #dbd0bb;
+    margin: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #405340 !important;
+}
+h1 {
+    font-family: "sauna-new", sans-serif;
+    font-weight: 900;
+  
+    font-size: larger;
+ 
+}
+p {
+    font-family: "sauna-new", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+}
+
+h2 {
+   font-family: sauna-mono, sans-serif;
+font-weight: 700;
+font-style: normal;
+    font-family: "sauna-new", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #405340;
+   
+}
+header{
+    color: #405340;
+    font-size: larger;
+    padding: 30px;
+}
+
